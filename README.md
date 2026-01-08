@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/Davex-254">
-    <img src="https://komarev.com/ghpvc/?username=xhclintohn&label=Profile%20views&color=0e75b6&style=for-the-badge" />
+    <img src="https://komarev.com/ghpvc/?username=Davex-254&label=Profile%20views&color=0e75b6&style=for-the-badge" />
   </a>
   &nbsp;
   <a href="https://user-badge.committers.top/kenya_public/Davex-254">
