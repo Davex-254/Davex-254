@@ -42,9 +42,9 @@
 
 ---
 
-## 🌟 Featured Project
+## Featured Project
 
-### ❤️ **DAVE-X (WhatsApp Bot)**  
+###  **DAVE-X (WhatsApp Bot)**  
 A fast, reliable and feature-rich WhatsApp bot built with scalable architecture, modern API integration, session handling, and automation capabilities.
 
 [![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Davex-254/DAVE-X)
