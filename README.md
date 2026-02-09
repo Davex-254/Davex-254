@@ -1,4 +1,3 @@
-
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31rimfksjcwzpagkjkhhw2vcpj4u&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
 
 <h1 align="center"><b>𝐇𝐞𝐲, 𝐈'𝐦 Gifted Dave</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
