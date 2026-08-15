@@ -4,7 +4,7 @@
 
 # Dave Tech
 
-### Software builder focused on automation, WhatsApp infrastructure, and practical developer tools
+### Software builder focused on communication platforms, WhatsApp tooling, and practical developer tools
 
 <a href="https://github.com/Davex-254">
   <img src="https://komarev.com/ghpvc/?username=Davex-254&label=PROFILE%20VIEWS&color=7c3aed&style=for-the-badge" alt="Profile views" />
@@ -27,16 +27,16 @@
 
 ## Profile
 
-I am **Dave Tech**, a Kenya-based developer building reliable software for real-world communication and automation. My work combines JavaScript and TypeScript engineering with API integration, bot architecture, session-aware services, and developer-focused tooling.
+I am **Dave Tech**, a Kenya-based developer building reliable software for real-world communication and connected services. My work combines JavaScript and TypeScript engineering with API integration, platform architecture, session-aware services, and developer-focused tooling.
 
-I enjoy turning complicated workflows into systems that are easier to deploy, maintain, and extend. My current focus is the WhatsApp ecosystem, open-source Node.js libraries, bot infrastructure, and practical automation for communities and small businesses.
+I enjoy turning complicated workflows into systems that are easier to deploy, maintain, and extend. My current focus is the WhatsApp ecosystem, open-source Node.js libraries, communication tools, and practical software for communities and small businesses.
 
 ## What I build
 
 | Focus | What it means in practice |
 |---|---|
-| WhatsApp infrastructure | Multi-device clients, messaging utilities, authentication flows, interactive messages, and channel tooling |
-| Automation systems | Event-driven workflows, API integrations, group tools, notifications, and repeatable operations |
+| WhatsApp tooling | Multi-device clients, messaging utilities, authentication flows, interactive messages, and channel tooling |
+| Software systems | Event-driven services, API integrations, group features, notifications, and repeatable workflows |
 | Developer tools | Reusable Node.js packages, clean public APIs, documentation, and deployment-friendly utilities |
 | Full-stack products | Backend services and interfaces that connect people, data, and business processes |
 
@@ -44,12 +44,12 @@ I enjoy turning complicated workflows into systems that are easier to deploy, ma
 
 | Project | Description |
 |---|---|
-| [Davex Uptime Monitor](https://davexuptime-monitor.zone.id/) | A service-monitoring dashboard with automatic checks, availability status, history charts, and 30-second refresh cycles. |
-| [Davex Prem Obfuscator](https://davexpremobfuscator.zone.id/) | Browser-based source-code protection with multiple languages, protection levels, Unicode identifiers, and offline app support. |
+| [Davex Uptime Monitor](https://davexuptime-monitor.zone.id/) | A service-monitoring dashboard with recurring checks, availability status, history charts, and 30-second refresh cycles. |
+| [Davex Prem Code Studio](https://davexpremobfuscator.zone.id/) | A browser-based code transformation workspace with multiple languages, configurable profiles, Unicode identifiers, and offline app support. |
 | [Davex Movies Anime](https://davexmoviesapp.zone.id/anime) | The anime experience within the DaveX Movies platform. |
-| [Davex Movie API](https://davexmovieapi.zone.id/) | A browser-ready, no-auth media API for search, discovery, metadata, captions, playback, and downloads. |
+| [Davex Movie API](https://davexmovieapi.zone.id/) | A browser-ready media API for search, discovery, metadata, captions, playback, and content delivery. |
 | [Davex MovieZone](https://davex-moviezone.zone.id/) | A fast media hub for movies, TV shows, live channels, music, and anime across phone, desktop, laptop, and TV. |
-| [Dave Tech APIs](https://www.davextechapis.zone.id/) | A free REST API collection covering media downloaders, search, social tools, AI, voice, anime, and utility endpoints. |
+| [Dave Tech APIs](https://www.davextechapis.zone.id/) | A free REST API collection covering media utilities, search, AI, voice, anime, and general developer services. |
 
 ## Selected work
 
@@ -59,15 +59,15 @@ A Dave Tech-maintained WhatsApp Web API library for Node.js with multi-device su
 
 ### [DAVE-X](https://github.com/Davex-254/DAVE-X)
 
-A modular WhatsApp bot project built around automation, group utilities, integrations, and extensible command handling.
+A modular WhatsApp application project focused on structured features, group utilities, integrations, and extensible command handling.
 
 ### [DAVE-X-ULTRA](https://github.com/Davex-254/DAVE-X-ULTRA)
 
-An expanded bot workspace bringing group controls, AI-oriented tools, and additional automation features into one project.
+An expanded WhatsApp workspace bringing group features, AI-oriented tools, and additional developer utilities into one project.
 
 ### [DAVE-PAIR](https://github.com/Davex-254/DAVE-PAIR)
 
-A pairing-code service designed to make WhatsApp bot setup faster and more approachable for developers.
+A connection-setup service designed to make WhatsApp project onboarding faster and more approachable for developers.
 
 ## Stack
 
