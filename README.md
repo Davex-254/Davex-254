@@ -1,109 +1,101 @@
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31rimfksjcwzpagkjkhhw2vcpj4u&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
+<div align="center">
 
-<h1 align="center"><b>𝐇𝐞𝐲, 𝐈'𝐦 Gifted Dave</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+# Dave Tech
+
+### Software builder focused on automation, WhatsApp infrastructure, and practical developer tools
+
+<a href="https://github.com/Davex-254">
+  <img src="https://komarev.com/ghpvc/?username=Davex-254&label=PROFILE%20VIEWS&color=7c3aed&style=for-the-badge" alt="Profile views" />
+</a>
+<a href="https://github.com/Davex-254?tab=followers">
+  <img src="https://img.shields.io/github/followers/Davex-254?label=FOLLOW&style=for-the-badge&color=2dd4bf" alt="GitHub followers" />
+</a>
+<a href="https://github.com/Davex-254?tab=repositories">
+  <img src="https://img.shields.io/badge/OPEN%20SOURCE-DAVEX%20TECH-111c3a?style=for-the-badge" alt="Dave Tech open source" />
+</a>
+
+<p>
+  <a href="https://github.com/Davex-254/davexbaileys"><img src="https://img.shields.io/badge/davexbaileys-WhatsApp%20Web%20API-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="davexbaileys" /></a>
+  <a href="https://www.npmjs.com/package/davexbaileys"><img src="https://img.shields.io/npm/v/davexbaileys?style=for-the-badge&label=npm&color=cb3837" alt="davexbaileys on npm" /></a>
+</p>
+
+</div>
+
+---
+
+## Profile
+
+I am **Dave Tech**, a Kenya-based developer building reliable software for real-world communication and automation. My work combines JavaScript and TypeScript engineering with API integration, bot architecture, session-aware services, and developer-focused tooling.
+
+I enjoy turning complicated workflows into systems that are easier to deploy, maintain, and extend. My current focus is the WhatsApp ecosystem, open-source Node.js libraries, bot infrastructure, and practical automation for communities and small businesses.
+
+## What I build
+
+| Focus | What it means in practice |
+|---|---|
+| WhatsApp infrastructure | Multi-device clients, messaging utilities, authentication flows, interactive messages, and channel tooling |
+| Automation systems | Event-driven workflows, API integrations, group tools, notifications, and repeatable operations |
+| Developer tools | Reusable Node.js packages, clean public APIs, documentation, and deployment-friendly utilities |
+| Full-stack products | Backend services and interfaces that connect people, data, and business processes |
+
+## Selected work
+
+### [davexbaileys](https://github.com/Davex-254/davexbaileys)
+
+A Dave Tech-maintained WhatsApp Web API library for Node.js with multi-device support, LID-aware utilities, interactive message builders, channel operations, authentication helpers, and a practical extension surface. The package is available on [npm](https://www.npmjs.com/package/davexbaileys).
+
+### [DAVE-X](https://github.com/Davex-254/DAVE-X)
+
+A modular WhatsApp bot project built around automation, group utilities, integrations, and extensible command handling.
+
+### [DAVE-X-ULTRA](https://github.com/Davex-254/DAVE-X-ULTRA)
+
+An expanded bot workspace bringing group controls, AI-oriented tools, and additional automation features into one project.
+
+### [DAVE-PAIR](https://github.com/Davex-254/DAVE-PAIR)
+
+A pairing-code service designed to make WhatsApp bot setup faster and more approachable for developers.
+
+## Stack
 
 <p align="center">
-  <a href="https://github.com/Davex-254">
-    <img src="https://komarev.com/ghpvc/?username=Davex-254&label=Profile%20views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111c3a" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Express-111c3a?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+</p>
+
+## GitHub activity
+
+I keep my active work in the [Davex-254 repositories](https://github.com/Davex-254?tab=repositories). The profile is intentionally centered on projects, documentation, and working links rather than third-party analytics panels that can intermittently fail to render.
+
+## Spotify
+
+<p align="center">
+  <a href="https://github.com/kittinanx/spotify-github-profile" aria-label="Spotify GitHub profile widget">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rimfksjcwzpagkjkhhw2vcpj4u&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false" alt="Recently played on Spotify" />
   </a>
-  &nbsp;
-  <a href="https://user-badge.committers.top/kenya_public/Davex-254">
-    <img src="https://user-badge.committers.top/kenya_public/Davex-254.svg" alt="committers.top badge"/>
-  </a>
 </p>
+
+The Spotify card above is connected to my existing Spotify profile widget. When nothing is playing, it correctly falls back to the recent/offline state instead of showing a broken image.
+
+## Connect
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=53b14f&size=24&center=true&vCenter=true&width=650&height=100&lines=Hello+There+%F0%9F%91%8B;Full+Stack+Developer;Creator+of+DAVE-X;Automation+%26+Bot+Builder;Tech+Enthusiast+%26+Problem+Solver;Always+Learning+%E2%9D%A4%EF%B8%8F" alt="Typing SVG"/>
-</p>
-
----
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Davex-254&theme=dark&hide_border=true&background=0D1117&stroke=53b14f&ring=53b14f&fire=53b14f&currStreakLabel=53b14f" alt="GitHub Streak"/>
-</div>
-
----
-
-
-
-## 🚀 About Me
-
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" style="border-radius:20px"/>
-</div>
-
-- **Full Stack Developer (JS/TS)**  
-- Skilled in building **automation systems, AI-powered workflows, and advanced WhatsApp bots**  
-- Creator of **DAVE-X** — a modular, high-performance WhatsApp bot solution used by groups & businesses  
-- Experienced in integrating APIs, creating auto-reply systems, business automation flows, and bot-based group management  
-- Continuously improving in **React, Node.js, cloud services, and backend infrastructure**  
-- From Kenya, actively contributing and growing within the developer ecosystem  
-- Music boosts my productivity — *Spotify details above*  
-
----
-
-## Featured Project
-
-###  **DAVE-X (WhatsApp Bot)**  
-A fast, reliable and feature-rich WhatsApp bot built with scalable architecture, modern API integration, session handling, and automation capabilities.
-
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Davex-254/DAVE-X)
-
----
-
-## 🛠️ Languages & Tools
-
-<div align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="400"/>
-</div>
-
-<p align="center">
-
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-  <!-- DevOps -->
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-
+  <a href="https://wa.me/254111687009"><img src="https://img.shields.io/badge/WhatsApp-Contact%20Dave%20Tech-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Contact Dave Tech on WhatsApp" /></a>
+  <a href="https://t.me/Digladoo"><img src="https://img.shields.io/badge/Telegram-Digladoo-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Dave Tech on Telegram" /></a>
+  <a href="https://www.linkedin.com/in/gifted_dave-6839552a2/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Dave Tech on LinkedIn" /></a>
+  <a href="https://twitter.com/dave_tech"><img src="https://img.shields.io/badge/X-@dave__tech-111c3a?style=for-the-badge&logo=x&logoColor=white" alt="Dave Tech on X" /></a>
+  <a href="mailto:gifteddaveservices@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Dave Tech" /></a>
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davex-254&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=53b14f&text_color=FFF"/>
+
+**Build useful things. Keep them reliable. Share what works.**
+
 </div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Davex-254&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=53b14f&icon_color=53b14f&text_color=FFF" width="400"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Davex-254&theme=react-dark&bg_color=0D1117&hide_border=true&color=53b14f&line=53b14f&point=FFFFFF" width="400"/>
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://wa.me/254104260236"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  <a href="https://t.me/Digladoo"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/gifted_dave-6839552a2/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/dave_tech"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="mailto://gifteddaveservices@gmail.com@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
----
-
-<p align="center">Thanks for visiting — more exciting work is on the way! And please don't forget to follow me ⭐</p>
