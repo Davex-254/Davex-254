@@ -38,6 +38,17 @@ I enjoy turning complicated workflows into systems that are easier to deploy, ma
 | Developer tools | Reusable Node.js packages, clean public APIs, documentation, and deployment-friendly utilities |
 | Full-stack products | Backend services and interfaces that connect people, data, and business processes |
 
+## Live projects
+
+| Project | Description |
+|---|---|
+| [Davex Uptime Monitor](https://davexuptime-monitor.zone.id/) | A service-monitoring dashboard with automatic checks, availability status, history charts, and 30-second refresh cycles. |
+| [Davex Prem Obfuscator](https://davexpremobfuscator.zone.id/) | Browser-based source-code protection with multiple languages, protection levels, Unicode identifiers, and offline app support. |
+| [Davex Movies Anime](https://davexmoviesapp.zone.id/anime) | The anime experience within the DaveX Movies platform. |
+| [Davex Movie API](https://davexmovieapi.zone.id/) | A browser-ready, no-auth media API for search, discovery, metadata, captions, playback, and downloads. |
+| [Davex MovieZone](https://davex-moviezone.zone.id/) | A fast media hub for movies, TV shows, live channels, music, and anime across phone, desktop, laptop, and TV. |
+| [Dave Tech APIs](https://www.davextechapis.zone.id/) | A free REST API collection covering media downloaders, search, social tools, AI, voice, anime, and utility endpoints. |
+
 ## Selected work
 
 ### [davexbaileys](https://github.com/Davex-254/davexbaileys)
