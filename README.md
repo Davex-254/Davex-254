@@ -1,3 +1,5 @@
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31rimfksjcwzpagkjkhhw2vcpj4u&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
+
 <div align="center">
 
 # Dave Tech
@@ -84,16 +86,6 @@ A pairing-code service designed to make WhatsApp bot setup faster and more appro
 ## GitHub activity
 
 I keep my active work in the [Davex-254 repositories](https://github.com/Davex-254?tab=repositories). The profile is intentionally centered on projects, documentation, and working links rather than third-party analytics panels that can intermittently fail to render.
-
-## Spotify
-
-<p align="center">
-  <a href="https://github.com/kittinanx/spotify-github-profile" aria-label="Spotify GitHub profile widget">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rimfksjcwzpagkjkhhw2vcpj4u&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false" alt="Recently played on Spotify" />
-  </a>
-</p>
-
-The Spotify card above is connected to my existing Spotify profile widget. When nothing is playing, it correctly falls back to the recent/offline state instead of showing a broken image.
 
 ## Connect
 
