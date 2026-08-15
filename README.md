@@ -1,4 +1,8 @@
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31rimfksjcwzpagkjkhhw2vcpj4u&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img width="520" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rimfksjcwzpagkjkhhw2vcpj4u&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false" alt="Spotify profile widget" />
+  </a>
+</p>
 
 <div align="center">
 
@@ -42,10 +46,19 @@ I enjoy turning complicated workflows into systems that are easier to deploy, ma
 
 ## Live projects
 
+<p align="center">
+  <a href="https://davexuptime-monitor.zone.id/"><img src="https://img.shields.io/badge/Davex%20Uptime%20Monitor-OPEN%20DASHBOARD-2563eb?style=for-the-badge&logo=statuspage&logoColor=white" alt="Davex Uptime Monitor" /></a>
+  <a href="https://davexpremobfuscator.zone.id/"><img src="https://img.shields.io/badge/Dave%20Tech%20Obfuscator-OPEN%20TOOL-7c3aed?style=for-the-badge&logo=codeforces&logoColor=white" alt="Dave Tech Obfuscator" /></a>
+  <a href="https://davexmoviesapp.zone.id/anime"><img src="https://img.shields.io/badge/Davex%20Anime-OPEN%20APP-ec4899?style=for-the-badge&logo=crunchyroll&logoColor=white" alt="Davex Anime" /></a>
+  <a href="https://davexmovieapi.zone.id/"><img src="https://img.shields.io/badge/Davex%20Movie%20API-EXPLORE%20API-0891b2?style=for-the-badge&logo=swagger&logoColor=white" alt="Davex Movie API" /></a>
+  <a href="https://davex-moviezone.zone.id/"><img src="https://img.shields.io/badge/Davex%20MovieZone-OPEN%20MEDIA-16a34a?style=for-the-badge&logo=plex&logoColor=white" alt="Davex MovieZone" /></a>
+  <a href="https://www.davextechapis.zone.id/"><img src="https://img.shields.io/badge/Dave%20Tech%20APIs-BROWSE%20SERVICES-f97316?style=for-the-badge&logo=fastapi&logoColor=white" alt="Dave Tech APIs" /></a>
+</p>
+
 | Project | Description |
 |---|---|
 | [Davex Uptime Monitor](https://davexuptime-monitor.zone.id/) | A service-monitoring dashboard with recurring checks, availability status, history charts, and 30-second refresh cycles. |
-| [Davex Prem Code Studio](https://davexpremobfuscator.zone.id/) | A browser-based code transformation workspace with multiple languages, configurable profiles, Unicode identifiers, and offline app support. |
+| [Dave Tech Obfuscator](https://davexpremobfuscator.zone.id/) | A browser-based code transformation workspace with multiple languages, configurable profiles, Unicode identifiers, and offline app support. |
 | [Davex Movies Anime](https://davexmoviesapp.zone.id/anime) | The anime experience within the DaveX Movies platform. |
 | [Davex Movie API](https://davexmovieapi.zone.id/) | A browser-ready media API for search, discovery, metadata, captions, playback, and content delivery. |
 | [Davex MovieZone](https://davex-moviezone.zone.id/) | A fast media hub for movies, TV shows, live channels, music, and anime across phone, desktop, laptop, and TV. |
@@ -90,8 +103,8 @@ I keep my active work in the [Davex-254 repositories](https://github.com/Davex-2
 ## Connect
 
 <p align="center">
-  <a href="https://wa.me/254111687009"><img src="https://img.shields.io/badge/WhatsApp-Contact%20Dave%20Tech-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Contact Dave Tech on WhatsApp" /></a>
-  <a href="https://t.me/Digladoo"><img src="https://img.shields.io/badge/Telegram-Digladoo-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Dave Tech on Telegram" /></a>
+  <a href="https://wa.me/254104260236"><img src="https://img.shields.io/badge/WhatsApp-Contact%20Dave%20Tech-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Contact Dave Tech on WhatsApp" /></a>
+  <a href="https://t.me/davex_tech"><img src="https://img.shields.io/badge/Telegram-@davex__tech-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Dave Tech on Telegram" /></a>
   <a href="https://www.linkedin.com/in/gifted_dave-6839552a2/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Dave Tech on LinkedIn" /></a>
   <a href="https://twitter.com/dave_tech"><img src="https://img.shields.io/badge/X-@dave__tech-111c3a?style=for-the-badge&logo=x&logoColor=white" alt="Dave Tech on X" /></a>
   <a href="mailto:gifteddaveservices@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Dave Tech" /></a>
